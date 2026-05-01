@@ -1,7 +1,8 @@
 # Project3
 This project analyzes transportation trends using the NHTS (National Household Travel Survey) dataset and driving behavior using the NGSIM (Next Generation Simulation) dataset. As an Engineering Intern, I have organized and visualized this data to support informed decision-making for the transportation planning group.
 
-User Guide
+# User Guide
+
 To run the code and generate the solutions, follow these sequential steps in the Jupyter Notebook:
 
 Load Libraries: Run the first cell to import pandas, matplotlib, and seaborn.
